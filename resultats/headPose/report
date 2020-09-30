@@ -1,0 +1,11 @@
+Classification Report
+
+              precision    recall  f1-score   support
+
+        roll       0.55      0.41      0.47       203
+       pitch       0.77      0.86      0.82       592
+         yaw       0.73      0.69      0.71       338
+
+    accuracy                           0.73      1133
+   macro avg       0.68      0.66      0.67      1133
+weighted avg       0.72      0.73      0.72      1133

@@ -1,0 +1,13 @@
+Classification Report
+
+                   precision    recall  f1-score   support
+
+   exchange Paper       0.07      0.80      0.12         5
+looking at friend       0.00      0.00      0.00        24
+   Talking Friend       0.09      0.17      0.12         6
+  Use Cheat Sheet       0.50      0.09      0.15        11
+         No Cheat       0.00      0.00      0.00        27
+
+         accuracy                           0.08        73
+        macro avg       0.13      0.21      0.08        73
+     weighted avg       0.09      0.08      0.04        73
